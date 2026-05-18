@@ -1,0 +1,43 @@
+:root{
+  --bg:oklch(0.975 0.018 85);
+  --fg:oklch(0.18 0.02 50);
+  --muted:oklch(0.45 0.025 60);
+  --muted-bg:oklch(0.92 0.02 80);
+  --secondary:oklch(0.94 0.025 80);
+  --border:oklch(0.82 0.025 75);
+  --accent:oklch(0.62 0.19 30);
+  --sans:"Inter",ui-sans-serif,system-ui,sans-serif;
+  --display:"Instrument Serif",ui-serif,Georgia,serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.4;padding:24px}
+.wrap{max-width:1400px;margin:0 auto;display:flex;flex-direction:column;gap:24px}
+header h1{font-family:var(--display);font-size:clamp(40px,6vw,72px);line-height:1;letter-spacing:-0.02em;font-style:italic}
+header p{margin-top:8px;color:var(--muted);max-width:60ch}
+.controls{display:flex;flex-direction:column;gap:12px}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+input[type=search]{height:48px;width:100%;max-width:420px;padding:0 16px;border:2px solid var(--fg);background:var(--bg);font-family:var(--display);font-size:18px;box-shadow:4px 4px 0 0 var(--fg);border-radius:0;outline:none}
+.meta{font-size:11px;letter-spacing:0.2em;text-transform:uppercase;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--border);background:var(--muted-bg);color:var(--muted);padding:4px 12px;border-radius:999px;font-size:12px;cursor:pointer;text-decoration:line-through}
+.chip.on{border-color:var(--fg);background:var(--bg);color:var(--fg);text-decoration:none}
+.chip.toggle-all{border-color:var(--fg);background:var(--fg);color:var(--bg);text-transform:uppercase;letter-spacing:0.2em;text-decoration:none}
+.tablewrap{overflow-x:auto;border:2px solid var(--fg);background:var(--bg);box-shadow:6px 6px 0 0 var(--fg)}
+.grid{display:grid;min-width:100%}
+.hcell,.rhead,.cell{padding:12px;border-right:1px solid var(--border);border-bottom:1px solid var(--border)}
+.hcell{position:sticky;top:0;z-index:20;background:var(--secondary);border-bottom:2px solid var(--fg);text-align:center;display:flex;flex-direction:column;gap:2px;align-items:center;justify-content:center}
+.hcell .flag{font-size:20px;line-height:1}
+.hcell .name{font-size:10px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase}
+.hcell.animal-h{position:sticky;left:0;top:0;z-index:30;border-right:2px solid var(--fg);text-align:left;align-items:flex-start;font-size:11px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;padding:14px 16px}
+.rhead{position:sticky;left:0;z-index:10;background:var(--bg);border-right:2px solid var(--fg);display:flex;align-items:center;gap:12px;font-family:var(--display);font-size:18px}
+.rhead .emoji{font-size:24px;line-height:1}
+.cell{text-align:center;font-family:var(--display);font-size:16px;cursor:pointer;position:relative}
+.cell.empty{color:color-mix(in oklch,var(--muted) 50%,transparent);cursor:default}
+.cell span.txt{text-decoration:underline dotted var(--accent);text-underline-offset:4px;text-decoration-thickness:2px}
+.cell:hover:not(.empty){background:color-mix(in oklch,var(--accent) 20%,transparent)}
+.cell .tip{position:absolute;bottom:calc(100% + 6px);left:50%;transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:6px 10px;border-radius:4px;font-family:var(--sans);font-size:12px;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .12s;z-index:40}
+.cell .tip .lbl{display:block;font-size:9px;letter-spacing:0.2em;text-transform:uppercase;opacity:0.6;margin-bottom:2px}
+.cell .tip .ipa{font-family:var(--mono);font-size:13px}
+.cell:hover .tip,.cell:focus .tip{opacity:1}
+footer{color:var(--muted);font-size:12px;text-align:center;padding:24px 0}

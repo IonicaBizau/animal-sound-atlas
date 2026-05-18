@@ -1,0 +1,3192 @@
+{
+  "animals": [
+    {
+      "id": "dog",
+      "emoji": "🐶",
+      "nameEn": "Dog"
+    },
+    {
+      "id": "cat",
+      "emoji": "🐱",
+      "nameEn": "Cat"
+    },
+    {
+      "id": "cow",
+      "emoji": "🐮",
+      "nameEn": "Cow"
+    },
+    {
+      "id": "duck",
+      "emoji": "🦆",
+      "nameEn": "Duck"
+    },
+    {
+      "id": "rooster",
+      "emoji": "🐓",
+      "nameEn": "Rooster"
+    },
+    {
+      "id": "chicken",
+      "emoji": "🐔",
+      "nameEn": "Chicken"
+    },
+    {
+      "id": "chick",
+      "emoji": "🐤",
+      "nameEn": "Chick"
+    },
+    {
+      "id": "pig",
+      "emoji": "🐷",
+      "nameEn": "Pig"
+    },
+    {
+      "id": "sheep",
+      "emoji": "🐑",
+      "nameEn": "Sheep"
+    },
+    {
+      "id": "goat",
+      "emoji": "🐐",
+      "nameEn": "Goat"
+    },
+    {
+      "id": "horse",
+      "emoji": "🐴",
+      "nameEn": "Horse"
+    },
+    {
+      "id": "donkey",
+      "emoji": "🫏",
+      "nameEn": "Donkey"
+    },
+    {
+      "id": "frog",
+      "emoji": "🐸",
+      "nameEn": "Frog"
+    },
+    {
+      "id": "owl",
+      "emoji": "🦉",
+      "nameEn": "Owl"
+    },
+    {
+      "id": "crow",
+      "emoji": "🐦‍⬛",
+      "nameEn": "Crow"
+    },
+    {
+      "id": "rooster_call",
+      "emoji": "🪺",
+      "nameEn": "Hen"
+    },
+    {
+      "id": "bird",
+      "emoji": "🐦",
+      "nameEn": "Small bird"
+    },
+    {
+      "id": "pigeon",
+      "emoji": "🕊️",
+      "nameEn": "Pigeon"
+    },
+    {
+      "id": "turkey",
+      "emoji": "🦃",
+      "nameEn": "Turkey"
+    },
+    {
+      "id": "goose",
+      "emoji": "🪿",
+      "nameEn": "Goose"
+    },
+    {
+      "id": "bee",
+      "emoji": "🐝",
+      "nameEn": "Bee"
+    },
+    {
+      "id": "mosquito",
+      "emoji": "🦟",
+      "nameEn": "Mosquito"
+    },
+    {
+      "id": "cricket",
+      "emoji": "🦗",
+      "nameEn": "Cricket"
+    },
+    {
+      "id": "snake",
+      "emoji": "🐍",
+      "nameEn": "Snake"
+    },
+    {
+      "id": "lion",
+      "emoji": "🦁",
+      "nameEn": "Lion"
+    },
+    {
+      "id": "tiger",
+      "emoji": "🐯",
+      "nameEn": "Tiger"
+    },
+    {
+      "id": "bear",
+      "emoji": "🐻",
+      "nameEn": "Bear"
+    },
+    {
+      "id": "wolf",
+      "emoji": "🐺",
+      "nameEn": "Wolf"
+    },
+    {
+      "id": "fox",
+      "emoji": "🦊",
+      "nameEn": "Fox"
+    },
+    {
+      "id": "monkey",
+      "emoji": "🐵",
+      "nameEn": "Monkey"
+    },
+    {
+      "id": "elephant",
+      "emoji": "🐘",
+      "nameEn": "Elephant"
+    },
+    {
+      "id": "mouse",
+      "emoji": "🐭",
+      "nameEn": "Mouse"
+    },
+    {
+      "id": "rabbit",
+      "emoji": "🐰",
+      "nameEn": "Rabbit"
+    },
+    {
+      "id": "dolphin",
+      "emoji": "🐬",
+      "nameEn": "Dolphin"
+    },
+    {
+      "id": "whale",
+      "emoji": "🐳",
+      "nameEn": "Whale"
+    },
+    {
+      "id": "fish",
+      "emoji": "🐟",
+      "nameEn": "Fish"
+    },
+    {
+      "id": "seal",
+      "emoji": "🦭",
+      "nameEn": "Seal"
+    },
+    {
+      "id": "penguin",
+      "emoji": "🐧",
+      "nameEn": "Penguin"
+    },
+    {
+      "id": "eagle",
+      "emoji": "🦅",
+      "nameEn": "Eagle"
+    },
+    {
+      "id": "hen",
+      "emoji": "🐔",
+      "nameEn": "Hen clucking"
+    },
+    {
+      "id": "cuckoo",
+      "emoji": "🐦",
+      "nameEn": "Cuckoo"
+    },
+    {
+      "id": "sparrow",
+      "emoji": "🐦",
+      "nameEn": "Sparrow"
+    },
+    {
+      "id": "cricket2",
+      "emoji": "🌙",
+      "nameEn": "Grasshopper"
+    },
+    {
+      "id": "camel",
+      "emoji": "🐪",
+      "nameEn": "Camel"
+    },
+    {
+      "id": "deer",
+      "emoji": "🦌",
+      "nameEn": "Deer"
+    },
+    {
+      "id": "peacock",
+      "emoji": "🦚",
+      "nameEn": "Peacock"
+    },
+    {
+      "id": "parrot",
+      "emoji": "🦜",
+      "nameEn": "Parrot"
+    },
+    {
+      "id": "raven",
+      "emoji": "🐦‍⬛",
+      "nameEn": "Raven"
+    },
+    {
+      "id": "swan",
+      "emoji": "🦢",
+      "nameEn": "Swan"
+    },
+    {
+      "id": "bat",
+      "emoji": "🦇",
+      "nameEn": "Bat"
+    },
+    {
+      "id": "hippo",
+      "emoji": "🦛",
+      "nameEn": "Hippo"
+    },
+    {
+      "id": "gorilla",
+      "emoji": "🦍",
+      "nameEn": "Gorilla"
+    },
+    {
+      "id": "rhino",
+      "emoji": "🦏",
+      "nameEn": "Rhino"
+    },
+    {
+      "id": "giraffe",
+      "emoji": "🦒",
+      "nameEn": "Giraffe"
+    },
+    {
+      "id": "kangaroo",
+      "emoji": "🦘",
+      "nameEn": "Kangaroo"
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "🇬🇧"
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "flag": "🇷🇴"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "flag": "🇫🇷"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "flag": "🇪🇸"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "flag": "🇩🇪"
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "flag": "🇮🇹"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "flag": "🇵🇹"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "flag": "🇳🇱"
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "flag": "🇵🇱"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "flag": "🇷🇺"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "flag": "🇺🇦"
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "flag": "🇨🇿"
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "flag": "🇭🇺"
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "flag": "🇬🇷"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "flag": "🇹🇷"
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "flag": "🇸🇦"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "flag": "🇮🇱"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "flag": "🇮🇳"
+    },
+    {
+      "code": "zh",
+      "name": "Mandarin",
+      "flag": "🇨🇳"
+    },
+    {
+      "code": "yue",
+      "name": "Cantonese",
+      "flag": "🇭🇰"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "flag": "🇯🇵"
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "flag": "🇰🇷"
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "flag": "🇻🇳"
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "flag": "🇹🇭"
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "flag": "🇮🇩"
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "flag": "🇰🇪"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "flag": "🇫🇮"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "flag": "🇸🇪"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "flag": "🇳🇴"
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "flag": "🇩🇰"
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "flag": "🏴"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "flag": "🇧🇬"
+    },
+    {
+      "code": "sr",
+      "name": "Serbian",
+      "flag": "🇷🇸"
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "flag": "🇭🇷"
+    },
+    {
+      "code": "sk",
+      "name": "Slovak",
+      "flag": "🇸🇰"
+    },
+    {
+      "code": "sl",
+      "name": "Slovenian",
+      "flag": "🇸🇮"
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "flag": "🇱🇹"
+    },
+    {
+      "code": "lv",
+      "name": "Latvian",
+      "flag": "🇱🇻"
+    },
+    {
+      "code": "et",
+      "name": "Estonian",
+      "flag": "🇪🇪"
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "flag": "🇮🇸"
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "flag": "🇮🇪"
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "flag": "🏴"
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "flag": "🏴"
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "flag": "🇮🇷"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "flag": "🇵🇰"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "flag": "🇧🇩"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "flag": "🇱🇰"
+    },
+    {
+      "code": "tl",
+      "name": "Filipino",
+      "flag": "🇵🇭"
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "flag": "🇲🇾"
+    },
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "flag": "🇿🇦"
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "flag": "🇪🇹"
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "flag": "🇳🇬"
+    },
+    {
+      "code": "eo",
+      "name": "Esperanto",
+      "flag": "🟢"
+    },
+    {
+      "code": "la",
+      "name": "Latin",
+      "flag": "🏛️"
+    },
+    {
+      "code": "be",
+      "name": "Belarusian",
+      "flag": "🇧🇾"
+    },
+    {
+      "code": "mk",
+      "name": "Macedonian",
+      "flag": "🇲🇰"
+    },
+    {
+      "code": "bs",
+      "name": "Bosnian",
+      "flag": "🇧🇦"
+    },
+    {
+      "code": "sq",
+      "name": "Albanian",
+      "flag": "🇦🇱"
+    },
+    {
+      "code": "mt",
+      "name": "Maltese",
+      "flag": "🇲🇹"
+    },
+    {
+      "code": "lb",
+      "name": "Luxembourgish",
+      "flag": "🇱🇺"
+    },
+    {
+      "code": "fo",
+      "name": "Faroese",
+      "flag": "🇫🇴"
+    },
+    {
+      "code": "fy",
+      "name": "Frisian",
+      "flag": "🏴"
+    },
+    {
+      "code": "rm",
+      "name": "Romansh",
+      "flag": "🇨🇭"
+    },
+    {
+      "code": "sc",
+      "name": "Sardinian",
+      "flag": "🏴"
+    },
+    {
+      "code": "scn",
+      "name": "Sicilian",
+      "flag": "🏴"
+    },
+    {
+      "code": "co",
+      "name": "Corsican",
+      "flag": "🏴"
+    },
+    {
+      "code": "oc",
+      "name": "Occitan",
+      "flag": "🏴"
+    },
+    {
+      "code": "br",
+      "name": "Breton",
+      "flag": "🏴"
+    },
+    {
+      "code": "gd",
+      "name": "Scottish Gaelic",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    {
+      "code": "gv",
+      "name": "Manx",
+      "flag": "🇮🇲"
+    },
+    {
+      "code": "kw",
+      "name": "Cornish",
+      "flag": "🏴"
+    },
+    {
+      "code": "ast",
+      "name": "Asturian",
+      "flag": "🏴"
+    },
+    {
+      "code": "an",
+      "name": "Aragonese",
+      "flag": "🏴"
+    },
+    {
+      "code": "wa",
+      "name": "Walloon",
+      "flag": "🏴"
+    },
+    {
+      "code": "se",
+      "name": "Northern Sami",
+      "flag": "🏴"
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "flag": "🇦🇲"
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "flag": "🇬🇪"
+    },
+    {
+      "code": "yi",
+      "name": "Yiddish",
+      "flag": "✡️"
+    }
+  ],
+  "sounds": {
+    "dog": {
+      "en": {
+        "text": "woof woof",
+        "ipa": "/wʊf wʊf/"
+      },
+      "ro": {
+        "text": "ham ham",
+        "ipa": "/ham ham/"
+      },
+      "fr": {
+        "text": "ouaf ouaf",
+        "ipa": "/waf waf/"
+      },
+      "es": {
+        "text": "guau guau",
+        "ipa": "/ɡwaw ɡwaw/"
+      },
+      "de": {
+        "text": "wau wau",
+        "ipa": "/vaʊ vaʊ/"
+      },
+      "it": {
+        "text": "bau bau",
+        "ipa": "/baw baw/"
+      },
+      "pt": {
+        "text": "au au",
+        "ipa": "/aw aw/"
+      },
+      "nl": {
+        "text": "woef woef",
+        "ipa": "/wuf wuf/"
+      },
+      "pl": {
+        "text": "hau hau",
+        "ipa": "/xaw xaw/"
+      },
+      "ru": {
+        "text": "гав-гав",
+        "ipa": "/ɡaf ɡaf/"
+      },
+      "uk": {
+        "text": "гав-гав",
+        "ipa": "/ɦaw ɦaw/"
+      },
+      "cs": {
+        "text": "haf haf",
+        "ipa": "/ɦaf ɦaf/"
+      },
+      "hu": {
+        "text": "vau vau",
+        "ipa": "/vɒu vɒu/"
+      },
+      "el": {
+        "text": "γαβ γαβ",
+        "ipa": "/ɣav ɣav/"
+      },
+      "tr": {
+        "text": "hav hav",
+        "ipa": "/hav hav/"
+      },
+      "ar": {
+        "text": "هو هو",
+        "ipa": "/haw haw/"
+      },
+      "he": {
+        "text": "הב הב",
+        "ipa": "/hav hav/"
+      },
+      "hi": {
+        "text": "भौं भौं",
+        "ipa": "/bʱɔ̃ː bʱɔ̃ː/"
+      },
+      "zh": {
+        "text": "汪汪",
+        "ipa": "/wāng wāng/"
+      },
+      "yue": {
+        "text": "wōu wōu",
+        "ipa": "/wɔw wɔw/"
+      },
+      "ja": {
+        "text": "ワンワン",
+        "ipa": "/waɴ waɴ/"
+      },
+      "ko": {
+        "text": "멍멍",
+        "ipa": "/mʌŋ mʌŋ/"
+      },
+      "vi": {
+        "text": "gâu gâu",
+        "ipa": "/ɣəw˧˩ ɣəw˧˩/"
+      },
+      "th": {
+        "text": "โฮ่ง โฮ่ง",
+        "ipa": "/hôːŋ hôːŋ/"
+      },
+      "id": {
+        "text": "guk guk",
+        "ipa": "/ɡuʔ ɡuʔ/"
+      },
+      "sw": {
+        "text": "hu hu",
+        "ipa": "/hu hu/"
+      },
+      "fi": {
+        "text": "hau hau",
+        "ipa": "/hɑu hɑu/"
+      },
+      "sv": {
+        "text": "voff voff",
+        "ipa": "/vɔf vɔf/"
+      },
+      "no": {
+        "text": "voff voff",
+        "ipa": "/vɔf vɔf/"
+      },
+      "da": {
+        "text": "vov vov",
+        "ipa": "/vɔw vɔw/"
+      },
+      "ca": {
+        "text": "bub bub",
+        "ipa": "/bup bup/"
+      },
+      "bg": {
+        "text": "бау бау",
+        "ipa": "/baw baw/"
+      },
+      "sr": {
+        "text": "ав ав",
+        "ipa": "/av av/"
+      },
+      "hr": {
+        "text": "vau vau",
+        "ipa": "/ʋau ʋau/"
+      },
+      "sk": {
+        "text": "haf haf",
+        "ipa": "/ɦaf ɦaf/"
+      },
+      "sl": {
+        "text": "hov hov",
+        "ipa": "/xɔw xɔw/"
+      },
+      "lt": {
+        "text": "au au",
+        "ipa": "/au au/"
+      },
+      "lv": {
+        "text": "vau vau",
+        "ipa": "/vau vau/"
+      },
+      "et": {
+        "text": "auh auh",
+        "ipa": "/ɑuh ɑuh/"
+      },
+      "is": {
+        "text": "voff voff",
+        "ipa": "/vɔfː vɔfː/"
+      },
+      "ga": {
+        "text": "amh amh",
+        "ipa": "/au au/"
+      },
+      "cy": {
+        "text": "wff wff",
+        "ipa": "/uf uf/"
+      },
+      "eu": {
+        "text": "au au",
+        "ipa": "/au au/"
+      },
+      "gl": {
+        "text": "guau guau",
+        "ipa": "/ɡwaw ɡwaw/"
+      },
+      "fa": {
+        "text": "هاپ هاپ",
+        "ipa": "/hɒːp hɒːp/"
+      },
+      "ur": {
+        "text": "بھوں بھوں",
+        "ipa": "/bʱɔ̃ː bʱɔ̃ː/"
+      },
+      "bn": {
+        "text": "ঘেউ ঘেউ",
+        "ipa": "/ɡʱew ɡʱew/"
+      },
+      "ta": {
+        "text": "லொள் லொள்",
+        "ipa": "/loɭ loɭ/"
+      },
+      "tl": {
+        "text": "aw aw",
+        "ipa": "/aw aw/"
+      },
+      "ms": {
+        "text": "gong gong",
+        "ipa": "/ɡoŋ ɡoŋ/"
+      },
+      "af": {
+        "text": "woef woef",
+        "ipa": "/vuf vuf/"
+      },
+      "am": {
+        "text": "ውው",
+        "ipa": "/wəw wəw/"
+      },
+      "yo": {
+        "text": "wo wo",
+        "ipa": "/wo wo/"
+      },
+      "eo": {
+        "text": "boj boj",
+        "ipa": "/boj boj/"
+      },
+      "la": {
+        "text": "baubor",
+        "ipa": "/ˈbau̯bor/"
+      },
+      "be": {
+        "text": "гаў гаў",
+        "ipa": "/ɣaw ɣaw/"
+      },
+      "mk": {
+        "text": "ав ав",
+        "ipa": "/av av/"
+      },
+      "bs": {
+        "text": "av av",
+        "ipa": "/av av/"
+      },
+      "sq": {
+        "text": "ham ham",
+        "ipa": "/ham ham/"
+      },
+      "mt": {
+        "text": "baw baw",
+        "ipa": "/baw baw/"
+      },
+      "lb": {
+        "text": "wau wau",
+        "ipa": "/vaʊ vaʊ/"
+      },
+      "fo": {
+        "text": "vuff vuff",
+        "ipa": "/vʊfː vʊfː/"
+      },
+      "fy": {
+        "text": "wûf wûf",
+        "ipa": "/wuf wuf/"
+      },
+      "rm": {
+        "text": "vuf vuf",
+        "ipa": "/vuf vuf/"
+      },
+      "sc": {
+        "text": "bau bau",
+        "ipa": "/baw baw/"
+      },
+      "scn": {
+        "text": "bau bau",
+        "ipa": "/baw baw/"
+      },
+      "co": {
+        "text": "bau bau",
+        "ipa": "/baw baw/"
+      },
+      "oc": {
+        "text": "bau bau",
+        "ipa": "/baw baw/"
+      },
+      "br": {
+        "text": "gaouig gaouig",
+        "ipa": "/ˈɡawik ˈɡawik/"
+      },
+      "gd": {
+        "text": "amh amh",
+        "ipa": "/au au/"
+      },
+      "gv": {
+        "text": "woof woof",
+        "ipa": "/wuf wuf/"
+      },
+      "kw": {
+        "text": "hou hou",
+        "ipa": "/huː huː/"
+      },
+      "ast": {
+        "text": "guau guau",
+        "ipa": "/ɡwaw ɡwaw/"
+      },
+      "an": {
+        "text": "guau guau",
+        "ipa": "/ɡwaw ɡwaw/"
+      },
+      "wa": {
+        "text": "waf waf",
+        "ipa": "/waf waf/"
+      },
+      "se": {
+        "text": "vuoff vuoff",
+        "ipa": "/vuofː vuofː/"
+      },
+      "hy": {
+        "text": "հաֆ հաֆ",
+        "ipa": "/hɑf hɑf/"
+      },
+      "ka": {
+        "text": "ჰავ ჰავ",
+        "ipa": "/hav hav/"
+      },
+      "yi": {
+        "text": "האו האו",
+        "ipa": "/hau hau/"
+      }
+    },
+    "cat": {
+      "en": {
+        "text": "meow",
+        "ipa": "/miˈaʊ/"
+      },
+      "ro": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "fr": {
+        "text": "miaou",
+        "ipa": "/mjaw/"
+      },
+      "es": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "de": {
+        "text": "miau",
+        "ipa": "/mjaʊ/"
+      },
+      "it": {
+        "text": "miao",
+        "ipa": "/mjaːo/"
+      },
+      "pt": {
+        "text": "miau",
+        "ipa": "/miˈaw/"
+      },
+      "nl": {
+        "text": "miauw",
+        "ipa": "/mjaʊ/"
+      },
+      "pl": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "ru": {
+        "text": "мяу",
+        "ipa": "/mʲau/"
+      },
+      "uk": {
+        "text": "няв",
+        "ipa": "/nʲaw/"
+      },
+      "cs": {
+        "text": "mňau",
+        "ipa": "/mɲau/"
+      },
+      "hu": {
+        "text": "miáu",
+        "ipa": "/miaːu/"
+      },
+      "el": {
+        "text": "νιάου",
+        "ipa": "/ˈɲa.u/"
+      },
+      "tr": {
+        "text": "miyav",
+        "ipa": "/mijav/"
+      },
+      "ar": {
+        "text": "مواء",
+        "ipa": "/muˈwaːʔ/"
+      },
+      "he": {
+        "text": "מיאו",
+        "ipa": "/miˈʔaw/"
+      },
+      "hi": {
+        "text": "म्याऊं",
+        "ipa": "/mjaːũː/"
+      },
+      "zh": {
+        "text": "喵",
+        "ipa": "/miāo/"
+      },
+      "yue": {
+        "text": "喵",
+        "ipa": "/mēw/"
+      },
+      "ja": {
+        "text": "ニャー",
+        "ipa": "/ɲaː/"
+      },
+      "ko": {
+        "text": "야옹",
+        "ipa": "/ja.oŋ/"
+      },
+      "vi": {
+        "text": "meo meo",
+        "ipa": "/mɛw˧ mɛw˧/"
+      },
+      "th": {
+        "text": "เมี้ยว",
+        "ipa": "/míːaw/"
+      },
+      "id": {
+        "text": "meong",
+        "ipa": "/meoŋ/"
+      },
+      "sw": {
+        "text": "nyau",
+        "ipa": "/ɲau/"
+      },
+      "fi": {
+        "text": "miau",
+        "ipa": "/miɑu/"
+      },
+      "sv": {
+        "text": "mjau",
+        "ipa": "/mjaʊ/"
+      },
+      "no": {
+        "text": "mjau",
+        "ipa": "/mjaʊ/"
+      },
+      "da": {
+        "text": "mjav",
+        "ipa": "/mjaʊ/"
+      },
+      "ca": {
+        "text": "meu",
+        "ipa": "/mɛw/"
+      },
+      "bg": {
+        "text": "мяу",
+        "ipa": "/mʲaw/"
+      },
+      "sr": {
+        "text": "мјау",
+        "ipa": "/mjaw/"
+      },
+      "hr": {
+        "text": "mijau",
+        "ipa": "/miˈjau/"
+      },
+      "sk": {
+        "text": "mňau",
+        "ipa": "/mɲau/"
+      },
+      "sl": {
+        "text": "mijav",
+        "ipa": "/mijaw/"
+      },
+      "lt": {
+        "text": "miau",
+        "ipa": "/mjau/"
+      },
+      "lv": {
+        "text": "ņau",
+        "ipa": "/ɲau/"
+      },
+      "et": {
+        "text": "näu",
+        "ipa": "/næu/"
+      },
+      "is": {
+        "text": "mjá",
+        "ipa": "/mjauː/"
+      },
+      "ga": {
+        "text": "meamhlach",
+        "ipa": "/ˈmʲaulax/"
+      },
+      "cy": {
+        "text": "mia",
+        "ipa": "/mia/"
+      },
+      "eu": {
+        "text": "miau",
+        "ipa": "/miau/"
+      },
+      "gl": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "fa": {
+        "text": "میو",
+        "ipa": "/mijow/"
+      },
+      "ur": {
+        "text": "میاؤں",
+        "ipa": "/mjaːũː/"
+      },
+      "bn": {
+        "text": "ম্যাও",
+        "ipa": "/mæo/"
+      },
+      "ta": {
+        "text": "மியாவ்",
+        "ipa": "/mijaːʋ/"
+      },
+      "tl": {
+        "text": "ngiyaw",
+        "ipa": "/ŋijaw/"
+      },
+      "ms": {
+        "text": "ngiau",
+        "ipa": "/ŋiaw/"
+      },
+      "af": {
+        "text": "miaau",
+        "ipa": "/miˈau/"
+      },
+      "am": {
+        "text": "ሚያው",
+        "ipa": "/mijaw/"
+      },
+      "yo": {
+        "text": "miyau",
+        "ipa": "/mijau/"
+      },
+      "eo": {
+        "text": "miaŭ",
+        "ipa": "/miaw/"
+      },
+      "la": {
+        "text": "mau",
+        "ipa": "/mau̯/"
+      },
+      "be": {
+        "text": "мяў",
+        "ipa": "/mʲaw/"
+      },
+      "mk": {
+        "text": "мјау",
+        "ipa": "/mjaw/"
+      },
+      "bs": {
+        "text": "mjau",
+        "ipa": "/mjau/"
+      },
+      "sq": {
+        "text": "mjau",
+        "ipa": "/mjau/"
+      },
+      "mt": {
+        "text": "mjaw mjaw",
+        "ipa": "/mjaw mjaw/"
+      },
+      "lb": {
+        "text": "miau",
+        "ipa": "/mjaʊ/"
+      },
+      "fo": {
+        "text": "mjá",
+        "ipa": "/mjauː/"
+      },
+      "fy": {
+        "text": "miau",
+        "ipa": "/mjaʊ/"
+      },
+      "rm": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "sc": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "scn": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "co": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "oc": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "br": {
+        "text": "miaou",
+        "ipa": "/mjaw/"
+      },
+      "gd": {
+        "text": "miamh",
+        "ipa": "/miav/"
+      },
+      "gv": {
+        "text": "meeoul",
+        "ipa": "/miːul/"
+      },
+      "kw": {
+        "text": "mew",
+        "ipa": "/mɛw/"
+      },
+      "ast": {
+        "text": "miáu",
+        "ipa": "/mjaw/"
+      },
+      "an": {
+        "text": "miau",
+        "ipa": "/mjaw/"
+      },
+      "wa": {
+        "text": "miyåw",
+        "ipa": "/mijaw/"
+      },
+      "se": {
+        "text": "njávkat",
+        "ipa": "/ɲaːfkat/"
+      },
+      "hy": {
+        "text": "մյաու",
+        "ipa": "/mjaw/"
+      },
+      "ka": {
+        "text": "მიაუ",
+        "ipa": "/mjaw/"
+      },
+      "yi": {
+        "text": "מיאו",
+        "ipa": "/mjaw/"
+      }
+    },
+    "cow": {
+      "en": {
+        "text": "moo",
+        "ipa": "/muː/"
+      },
+      "ro": {
+        "text": "muu",
+        "ipa": "/muː/"
+      },
+      "fr": {
+        "text": "meuh",
+        "ipa": "/møː/"
+      },
+      "es": {
+        "text": "muu",
+        "ipa": "/muː/"
+      },
+      "de": {
+        "text": "muh",
+        "ipa": "/muː/"
+      },
+      "it": {
+        "text": "muu",
+        "ipa": "/muː/"
+      },
+      "pt": {
+        "text": "muu",
+        "ipa": "/muː/"
+      },
+      "nl": {
+        "text": "boe",
+        "ipa": "/buː/"
+      },
+      "pl": {
+        "text": "muu",
+        "ipa": "/muː/"
+      },
+      "ru": {
+        "text": "му-у",
+        "ipa": "/muː/"
+      },
+      "uk": {
+        "text": "му-у",
+        "ipa": "/muː/"
+      },
+      "cs": {
+        "text": "bú",
+        "ipa": "/buː/"
+      },
+      "hu": {
+        "text": "bú",
+        "ipa": "/buː/"
+      },
+      "el": {
+        "text": "μουου",
+        "ipa": "/ˈmu.u/"
+      },
+      "tr": {
+        "text": "möö",
+        "ipa": "/møː/"
+      },
+      "ar": {
+        "text": "موو",
+        "ipa": "/muː/"
+      },
+      "he": {
+        "text": "מוו",
+        "ipa": "/muː/"
+      },
+      "hi": {
+        "text": "बां",
+        "ipa": "/bãː/"
+      },
+      "zh": {
+        "text": "哞",
+        "ipa": "/mōu/"
+      },
+      "ja": {
+        "text": "モーモー",
+        "ipa": "/moː moː/"
+      },
+      "ko": {
+        "text": "음메",
+        "ipa": "/ɯm.me/"
+      },
+      "vi": {
+        "text": "ụm bò",
+        "ipa": "/ʔum˧˨ ɓɔ˧˩/"
+      },
+      "th": {
+        "text": "มอ",
+        "ipa": "/mɔː/"
+      },
+      "id": {
+        "text": "moo",
+        "ipa": "/muː/"
+      },
+      "sw": {
+        "text": "mhuu",
+        "ipa": "/mhuː/"
+      },
+      "fi": {
+        "text": "ammuu",
+        "ipa": "/ɑmːuː/"
+      },
+      "sv": {
+        "text": "mu",
+        "ipa": "/muː/"
+      },
+      "no": {
+        "text": "mø",
+        "ipa": "/møː/"
+      },
+      "da": {
+        "text": "muh",
+        "ipa": "/muː/"
+      },
+      "ca": {
+        "text": "muuu",
+        "ipa": "/muː/"
+      },
+      "bg": {
+        "text": "муу",
+        "ipa": "/muː/"
+      },
+      "mk": {
+        "text": "му-у",
+        "ipa": "/muː/"
+      }
+    },
+    "duck": {
+      "en": {
+        "text": "quack quack",
+        "ipa": "/kwæk kwæk/"
+      },
+      "ro": {
+        "text": "mac mac",
+        "ipa": "/mak mak/"
+      },
+      "fr": {
+        "text": "coin coin",
+        "ipa": "/kwɛ̃ kwɛ̃/"
+      },
+      "es": {
+        "text": "cua cua",
+        "ipa": "/kwa kwa/"
+      },
+      "de": {
+        "text": "quak quak",
+        "ipa": "/kvak kvak/"
+      },
+      "it": {
+        "text": "qua qua",
+        "ipa": "/kwa kwa/"
+      },
+      "pt": {
+        "text": "quá quá",
+        "ipa": "/kwa kwa/"
+      },
+      "nl": {
+        "text": "kwak kwak",
+        "ipa": "/kʋɑk kʋɑk/"
+      },
+      "pl": {
+        "text": "kwa kwa",
+        "ipa": "/kfa kfa/"
+      },
+      "ru": {
+        "text": "кря-кря",
+        "ipa": "/krʲa krʲa/"
+      },
+      "uk": {
+        "text": "кря-кря",
+        "ipa": "/krʲa krʲa/"
+      },
+      "cs": {
+        "text": "káč káč",
+        "ipa": "/kaːtʃ kaːtʃ/"
+      },
+      "hu": {
+        "text": "háp háp",
+        "ipa": "/haːp haːp/"
+      },
+      "el": {
+        "text": "πα πα",
+        "ipa": "/pa pa/"
+      },
+      "tr": {
+        "text": "vak vak",
+        "ipa": "/vak vak/"
+      },
+      "ar": {
+        "text": "بط بط",
+        "ipa": "/bɑtˤ bɑtˤ/"
+      },
+      "he": {
+        "text": "גע גע",
+        "ipa": "/ɡa ɡa/"
+      },
+      "hi": {
+        "text": "क्वैक",
+        "ipa": "/kwɛːk/"
+      },
+      "zh": {
+        "text": "呱呱",
+        "ipa": "/ɡuā ɡuā/"
+      },
+      "ja": {
+        "text": "ガーガー",
+        "ipa": "/ɡaː ɡaː/"
+      },
+      "ko": {
+        "text": "꽥꽥",
+        "ipa": "/k͈wɛk k͈wɛk/"
+      },
+      "vi": {
+        "text": "cạc cạc",
+        "ipa": "/kak˨ˀ kak˨ˀ/"
+      },
+      "th": {
+        "text": "ก้าบ ก้าบ",
+        "ipa": "/kâːp kâːp/"
+      },
+      "id": {
+        "text": "kwek kwek",
+        "ipa": "/kwɛk kwɛk/"
+      },
+      "fi": {
+        "text": "kvaak",
+        "ipa": "/kʋɑːk/"
+      },
+      "sv": {
+        "text": "kvack",
+        "ipa": "/kvak/"
+      },
+      "no": {
+        "text": "kvakk",
+        "ipa": "/kvak/"
+      },
+      "da": {
+        "text": "rap rap",
+        "ipa": "/rap rap/"
+      },
+      "ca": {
+        "text": "clac clac",
+        "ipa": "/klak klak/"
+      },
+      "bg": {
+        "text": "пък пък",
+        "ipa": "/pɤk pɤk/"
+      },
+      "sr": {
+        "text": "ква ква",
+        "ipa": "/kva kva/"
+      },
+      "hr": {
+        "text": "kva kva",
+        "ipa": "/kva kva/"
+      },
+      "sk": {
+        "text": "kvák kvák",
+        "ipa": "/kvaːk kvaːk/"
+      },
+      "sl": {
+        "text": "ga ga",
+        "ipa": "/ɡa ɡa/"
+      },
+      "lt": {
+        "text": "kriax",
+        "ipa": "/krʲax/"
+      },
+      "lv": {
+        "text": "pēk pēk",
+        "ipa": "/peːk peːk/"
+      },
+      "et": {
+        "text": "präks",
+        "ipa": "/præks/"
+      },
+      "is": {
+        "text": "bra bra",
+        "ipa": "/pra pra/"
+      },
+      "cy": {
+        "text": "cwac cwac",
+        "ipa": "/kwak kwak/"
+      },
+      "eu": {
+        "text": "kua kua",
+        "ipa": "/kua kua/"
+      },
+      "gl": {
+        "text": "cuac cuac",
+        "ipa": "/kwak kwak/"
+      },
+      "fa": {
+        "text": "کواک",
+        "ipa": "/kwɒːk/"
+      },
+      "bn": {
+        "text": "প্যাঁক প্যাঁক",
+        "ipa": "/pæ̃k pæ̃k/"
+      },
+      "tl": {
+        "text": "kwak kwak",
+        "ipa": "/kwak kwak/"
+      },
+      "ms": {
+        "text": "kwek kwek",
+        "ipa": "/kwɛʔ kwɛʔ/"
+      },
+      "af": {
+        "text": "kwaak kwaak",
+        "ipa": "/kvɑːk kvɑːk/"
+      },
+      "eo": {
+        "text": "gak gak",
+        "ipa": "/ɡak ɡak/"
+      },
+      "la": {
+        "text": "tetrinnire",
+        "ipa": "/tetrinˈniːre/"
+      },
+      "be": {
+        "text": "кра-кра",
+        "ipa": "/kra kra/"
+      },
+      "mk": {
+        "text": "крак крак",
+        "ipa": "/krak krak/"
+      },
+      "bs": {
+        "text": "kva kva",
+        "ipa": "/kva kva/"
+      },
+      "sq": {
+        "text": "mak mak",
+        "ipa": "/mak mak/"
+      },
+      "mt": {
+        "text": "kwak kwak",
+        "ipa": "/kwak kwak/"
+      },
+      "lb": {
+        "text": "quak quak",
+        "ipa": "/kvak kvak/"
+      },
+      "fo": {
+        "text": "kvak kvak",
+        "ipa": "/kvak kvak/"
+      },
+      "fy": {
+        "text": "kwak kwak",
+        "ipa": "/kʋak kʋak/"
+      },
+      "rm": {
+        "text": "quac quac",
+        "ipa": "/kwak kwak/"
+      },
+      "sc": {
+        "text": "cua cua",
+        "ipa": "/kwa kwa/"
+      },
+      "scn": {
+        "text": "cua cua",
+        "ipa": "/kwa kwa/"
+      },
+      "co": {
+        "text": "cua cua",
+        "ipa": "/kwa kwa/"
+      },
+      "oc": {
+        "text": "coan coan",
+        "ipa": "/kwan kwan/"
+      },
+      "br": {
+        "text": "kwak kwak",
+        "ipa": "/kwak kwak/"
+      },
+      "gd": {
+        "text": "vàc vàc",
+        "ipa": "/vaːxk vaːxk/"
+      },
+      "ast": {
+        "text": "cuá cuá",
+        "ipa": "/kwa kwa/"
+      },
+      "wa": {
+        "text": "couak couak",
+        "ipa": "/kwak kwak/"
+      },
+      "hy": {
+        "text": "կռկռ",
+        "ipa": "/krkr/"
+      },
+      "ka": {
+        "text": "ყაყანი",
+        "ipa": "/qʼaqʼani/"
+      },
+      "yi": {
+        "text": "גאַ גאַ",
+        "ipa": "/ɡa ɡa/"
+      }
+    },
+    "rooster": {
+      "en": {
+        "text": "cock-a-doodle-doo",
+        "ipa": "/ˌkɒkəˈduːdl̩duː/"
+      },
+      "ro": {
+        "text": "cucurigu",
+        "ipa": "/kukuˈriɡu/"
+      },
+      "fr": {
+        "text": "cocorico",
+        "ipa": "/kɔkɔʁiko/"
+      },
+      "es": {
+        "text": "quiquiriquí",
+        "ipa": "/kikiɾiˈki/"
+      },
+      "de": {
+        "text": "kikeriki",
+        "ipa": "/kikəʁiˈkiː/"
+      },
+      "it": {
+        "text": "chicchirichì",
+        "ipa": "/kikkiriˈki/"
+      },
+      "pt": {
+        "text": "cocorocó",
+        "ipa": "/kokoɾoˈkɔ/"
+      },
+      "nl": {
+        "text": "kukeleku",
+        "ipa": "/kykəˈly/"
+      },
+      "pl": {
+        "text": "kukuryku",
+        "ipa": "/kukuˈrɨku/"
+      },
+      "ru": {
+        "text": "кукареку",
+        "ipa": "/kukɐrʲɪˈku/"
+      },
+      "uk": {
+        "text": "кукуріку",
+        "ipa": "/kukuˈrʲiku/"
+      },
+      "cs": {
+        "text": "kykyryký",
+        "ipa": "/kɪkɪrɪˈkiː/"
+      },
+      "hu": {
+        "text": "kukurikú",
+        "ipa": "/kukuriˈkuː/"
+      },
+      "el": {
+        "text": "κικιρίκου",
+        "ipa": "/kikiˈriku/"
+      },
+      "tr": {
+        "text": "ü-ürü-üüü",
+        "ipa": "/yːryːˈyː/"
+      },
+      "ar": {
+        "text": "كوكوكو",
+        "ipa": "/kuːkuːkuː/"
+      },
+      "he": {
+        "text": "קוקוריקו",
+        "ipa": "/kukuˈriku/"
+      },
+      "hi": {
+        "text": "कुकड़ू कूं",
+        "ipa": "/kukɽuː kũː/"
+      },
+      "zh": {
+        "text": "喔喔喔",
+        "ipa": "/wō wō wō/"
+      },
+      "ja": {
+        "text": "コケコッコー",
+        "ipa": "/kokekokːoː/"
+      },
+      "ko": {
+        "text": "꼬끼오",
+        "ipa": "/k͈o.k͈i.o/"
+      },
+      "vi": {
+        "text": "ò ó o o",
+        "ipa": "/ɔ˧˩ ɔ˧˥ ɔ ɔ/"
+      },
+      "th": {
+        "text": "เอ้ก อี เอ้ก เอ้ก",
+        "ipa": "/ʔêːk ʔiː ʔêːk/"
+      },
+      "id": {
+        "text": "kukuruyuk",
+        "ipa": "/kukuruˈjuʔ/"
+      },
+      "sw": {
+        "text": "kokoriko",
+        "ipa": "/kokoˈriko/"
+      },
+      "fi": {
+        "text": "kukko kiekuu",
+        "ipa": "/ˈkukːo ˈkie̯kuː/"
+      },
+      "sv": {
+        "text": "kuckeliku",
+        "ipa": "/kɵkːeˈliːkɵ/"
+      },
+      "no": {
+        "text": "kykeliky",
+        "ipa": "/kykəˈlyː/"
+      },
+      "da": {
+        "text": "kykeliky",
+        "ipa": "/kykəˈlyː/"
+      },
+      "ca": {
+        "text": "quiquiriquic",
+        "ipa": "/kikiriˈkik/"
+      },
+      "bg": {
+        "text": "кукуригу",
+        "ipa": "/kukuˈriɡu/"
+      },
+      "mk": {
+        "text": "кукурику",
+        "ipa": "/kukuˈriku/"
+      }
+    },
+    "pig": {
+      "en": {
+        "text": "oink oink",
+        "ipa": "/ɔɪŋk ɔɪŋk/"
+      },
+      "ro": {
+        "text": "guiț guiț",
+        "ipa": "/ɡwits ɡwits/"
+      },
+      "fr": {
+        "text": "groin groin",
+        "ipa": "/ɡʁwɛ̃ ɡʁwɛ̃/"
+      },
+      "es": {
+        "text": "oink oink",
+        "ipa": "/oink oink/"
+      },
+      "de": {
+        "text": "oink oink",
+        "ipa": "/ɔɪ̯ŋk ɔɪ̯ŋk/"
+      },
+      "it": {
+        "text": "oink oink",
+        "ipa": "/oink oink/"
+      },
+      "pt": {
+        "text": "oinc oinc",
+        "ipa": "/ojnk ojnk/"
+      },
+      "nl": {
+        "text": "knor knor",
+        "ipa": "/knɔr knɔr/"
+      },
+      "pl": {
+        "text": "chrum chrum",
+        "ipa": "/xrum xrum/"
+      },
+      "ru": {
+        "text": "хрю-хрю",
+        "ipa": "/xrʲu xrʲu/"
+      },
+      "uk": {
+        "text": "хрю-хрю",
+        "ipa": "/xrʲu xrʲu/"
+      },
+      "cs": {
+        "text": "chro chro",
+        "ipa": "/xro xro/"
+      },
+      "hu": {
+        "text": "röf röf",
+        "ipa": "/røf røf/"
+      },
+      "el": {
+        "text": "γρου γρου",
+        "ipa": "/ɣru ɣru/"
+      },
+      "tr": {
+        "text": "hwruu hwruu",
+        "ipa": "/hʷruː hʷruː/"
+      },
+      "ja": {
+        "text": "ブーブー",
+        "ipa": "/buː buː/"
+      },
+      "ko": {
+        "text": "꿀꿀",
+        "ipa": "/k͈ul k͈ul/"
+      },
+      "zh": {
+        "text": "哼哼",
+        "ipa": "/hēng hēng/"
+      },
+      "vi": {
+        "text": "ụt ịt",
+        "ipa": "/ʔut˨ˀ ʔit˨ˀ/"
+      },
+      "th": {
+        "text": "อู๊ด อู๊ด",
+        "ipa": "/ʔúːt ʔúːt/"
+      },
+      "fi": {
+        "text": "röh röh",
+        "ipa": "/røh røh/"
+      },
+      "sv": {
+        "text": "nöff nöff",
+        "ipa": "/nœf nœf/"
+      },
+      "no": {
+        "text": "nøff nøff",
+        "ipa": "/nœf nœf/"
+      },
+      "da": {
+        "text": "øf øf",
+        "ipa": "/œf œf/"
+      },
+      "bg": {
+        "text": "грух грух",
+        "ipa": "/ɡrux ɡrux/"
+      },
+      "mk": {
+        "text": "грух грух",
+        "ipa": "/ɡrux ɡrux/"
+      }
+    },
+    "sheep": {
+      "en": {
+        "text": "baa",
+        "ipa": "/bɑː/"
+      },
+      "ro": {
+        "text": "beee",
+        "ipa": "/beː/"
+      },
+      "fr": {
+        "text": "bêê",
+        "ipa": "/bɛː/"
+      },
+      "es": {
+        "text": "bee",
+        "ipa": "/beː/"
+      },
+      "de": {
+        "text": "mäh",
+        "ipa": "/mɛː/"
+      },
+      "it": {
+        "text": "bee",
+        "ipa": "/beː/"
+      },
+      "pt": {
+        "text": "mé",
+        "ipa": "/mɛ/"
+      },
+      "nl": {
+        "text": "mè",
+        "ipa": "/mɛ/"
+      },
+      "pl": {
+        "text": "beee",
+        "ipa": "/bɛː/"
+      },
+      "ru": {
+        "text": "бе-е-е",
+        "ipa": "/bʲeː/"
+      },
+      "uk": {
+        "text": "бе-е-е",
+        "ipa": "/bɛː/"
+      },
+      "cs": {
+        "text": "bé bé",
+        "ipa": "/bɛː/"
+      },
+      "hu": {
+        "text": "bee",
+        "ipa": "/bɛː/"
+      },
+      "el": {
+        "text": "μπεε",
+        "ipa": "/beː/"
+      },
+      "tr": {
+        "text": "mee",
+        "ipa": "/meː/"
+      },
+      "ar": {
+        "text": "ماء",
+        "ipa": "/maːʔ/"
+      },
+      "he": {
+        "text": "מע",
+        "ipa": "/mɛ/"
+      },
+      "zh": {
+        "text": "咩",
+        "ipa": "/miē/"
+      },
+      "ja": {
+        "text": "メーメー",
+        "ipa": "/meː meː/"
+      },
+      "ko": {
+        "text": "매애",
+        "ipa": "/mɛ.ɛ/"
+      },
+      "vi": {
+        "text": "be be",
+        "ipa": "/ɓɛ ɓɛ/"
+      },
+      "th": {
+        "text": "แบ๊ะ",
+        "ipa": "/bɛ́ʔ/"
+      },
+      "fi": {
+        "text": "mää",
+        "ipa": "/mæː/"
+      },
+      "sv": {
+        "text": "bä",
+        "ipa": "/bɛː/"
+      },
+      "no": {
+        "text": "bæ",
+        "ipa": "/bɛː/"
+      },
+      "da": {
+        "text": "mæh",
+        "ipa": "/mɛː/"
+      },
+      "bg": {
+        "text": "бее",
+        "ipa": "/bɛː/"
+      },
+      "mk": {
+        "text": "бее",
+        "ipa": "/bɛː/"
+      }
+    },
+    "goat": {
+      "en": {
+        "text": "maa",
+        "ipa": "/mɑː/"
+      },
+      "ro": {
+        "text": "meee",
+        "ipa": "/meː/"
+      },
+      "fr": {
+        "text": "mêê",
+        "ipa": "/mɛː/"
+      },
+      "es": {
+        "text": "mee",
+        "ipa": "/meː/"
+      },
+      "de": {
+        "text": "meck meck",
+        "ipa": "/mɛk mɛk/"
+      },
+      "it": {
+        "text": "mee",
+        "ipa": "/meː/"
+      },
+      "nl": {
+        "text": "mè mè",
+        "ipa": "/mɛ mɛ/"
+      },
+      "ru": {
+        "text": "мее",
+        "ipa": "/mʲeː/"
+      },
+      "ja": {
+        "text": "メーメー",
+        "ipa": "/meː meː/"
+      },
+      "ko": {
+        "text": "음매",
+        "ipa": "/ɯm.mɛ/"
+      },
+      "fi": {
+        "text": "mää",
+        "ipa": "/mæː/"
+      },
+      "mk": {
+        "text": "мее",
+        "ipa": "/mɛː/"
+      }
+    },
+    "horse": {
+      "en": {
+        "text": "neigh",
+        "ipa": "/neɪ/"
+      },
+      "ro": {
+        "text": "nechează",
+        "ipa": "/nekeˈazə/"
+      },
+      "fr": {
+        "text": "hiii",
+        "ipa": "/iː/"
+      },
+      "es": {
+        "text": "iiiih",
+        "ipa": "/iː/"
+      },
+      "de": {
+        "text": "wieher",
+        "ipa": "/ˈviːɐ/"
+      },
+      "it": {
+        "text": "iiih",
+        "ipa": "/iː/"
+      },
+      "nl": {
+        "text": "hinnik",
+        "ipa": "/ˈɦɪnɪk/"
+      },
+      "ru": {
+        "text": "и-го-го",
+        "ipa": "/iɡoˈɡo/"
+      },
+      "uk": {
+        "text": "і-го-го",
+        "ipa": "/iɦoˈɦo/"
+      },
+      "pl": {
+        "text": "ihaha",
+        "ipa": "/iˈxaxa/"
+      },
+      "ja": {
+        "text": "ヒヒーン",
+        "ipa": "/hihiːɴ/"
+      },
+      "ko": {
+        "text": "히힝",
+        "ipa": "/hi.hiŋ/"
+      },
+      "zh": {
+        "text": "咴儿咴儿",
+        "ipa": "/huīr huīr/"
+      },
+      "fi": {
+        "text": "hirnuu",
+        "ipa": "/ˈhirnuː/"
+      },
+      "sv": {
+        "text": "gnägg",
+        "ipa": "/jɛɡ/"
+      },
+      "mk": {
+        "text": "и-го-го",
+        "ipa": "/iɡoˈɡo/"
+      }
+    },
+    "donkey": {
+      "en": {
+        "text": "hee-haw",
+        "ipa": "/ˈhiːhɔː/"
+      },
+      "ro": {
+        "text": "i-ha",
+        "ipa": "/iˈha/"
+      },
+      "fr": {
+        "text": "hi-han",
+        "ipa": "/iɑ̃/"
+      },
+      "es": {
+        "text": "iii-ah",
+        "ipa": "/iˈa/"
+      },
+      "de": {
+        "text": "i-ah",
+        "ipa": "/iˈʔaː/"
+      },
+      "it": {
+        "text": "ih-oh",
+        "ipa": "/iˈɔ/"
+      },
+      "pt": {
+        "text": "hi-ho",
+        "ipa": "/iˈɔ/"
+      },
+      "ru": {
+        "text": "иа-иа",
+        "ipa": "/iˈa iˈa/"
+      },
+      "ja": {
+        "text": "ヒーホー",
+        "ipa": "/hiː hoː/"
+      },
+      "mk": {
+        "text": "иа-иа",
+        "ipa": "/iˈa iˈa/"
+      }
+    },
+    "frog": {
+      "en": {
+        "text": "ribbit",
+        "ipa": "/ˈrɪbɪt/"
+      },
+      "ro": {
+        "text": "oac oac",
+        "ipa": "/o̯ak o̯ak/"
+      },
+      "fr": {
+        "text": "coa coa",
+        "ipa": "/kɔa kɔa/"
+      },
+      "es": {
+        "text": "croac croac",
+        "ipa": "/kroak kroak/"
+      },
+      "de": {
+        "text": "quak quak",
+        "ipa": "/kvak kvak/"
+      },
+      "it": {
+        "text": "cra cra",
+        "ipa": "/kra kra/"
+      },
+      "pt": {
+        "text": "croac",
+        "ipa": "/kɾoak/"
+      },
+      "nl": {
+        "text": "kwak kwak",
+        "ipa": "/kʋɑk kʋɑk/"
+      },
+      "pl": {
+        "text": "kum kum",
+        "ipa": "/kum kum/"
+      },
+      "ru": {
+        "text": "ква-ква",
+        "ipa": "/kva kva/"
+      },
+      "uk": {
+        "text": "ква-ква",
+        "ipa": "/kva kva/"
+      },
+      "hu": {
+        "text": "brekeke",
+        "ipa": "/brɛkɛkɛ/"
+      },
+      "el": {
+        "text": "κουάξ",
+        "ipa": "/ˈkwaks/"
+      },
+      "tr": {
+        "text": "vrak vrak",
+        "ipa": "/vrak vrak/"
+      },
+      "ja": {
+        "text": "ケロケロ",
+        "ipa": "/keɾo keɾo/"
+      },
+      "ko": {
+        "text": "개굴개굴",
+        "ipa": "/kɛɡul kɛɡul/"
+      },
+      "zh": {
+        "text": "呱呱",
+        "ipa": "/ɡuā ɡuā/"
+      },
+      "vi": {
+        "text": "ộp ộp",
+        "ipa": "/ʔop˨ˀ ʔop˨ˀ/"
+      },
+      "th": {
+        "text": "อ๊บ อ๊บ",
+        "ipa": "/ʔóp ʔóp/"
+      },
+      "fi": {
+        "text": "kvaak kvaak",
+        "ipa": "/kʋɑːk kʋɑːk/"
+      },
+      "sv": {
+        "text": "kvack kvack",
+        "ipa": "/kvak kvak/"
+      },
+      "mk": {
+        "text": "ква-ква",
+        "ipa": "/kva kva/"
+      }
+    },
+    "owl": {
+      "en": {
+        "text": "hoot hoot",
+        "ipa": "/huːt huːt/"
+      },
+      "ro": {
+        "text": "hu hu",
+        "ipa": "/hu hu/"
+      },
+      "fr": {
+        "text": "hou hou",
+        "ipa": "/u u/"
+      },
+      "es": {
+        "text": "uh uh",
+        "ipa": "/u u/"
+      },
+      "de": {
+        "text": "hu hu",
+        "ipa": "/huː huː/"
+      },
+      "it": {
+        "text": "uhu",
+        "ipa": "/uˈu/"
+      },
+      "ru": {
+        "text": "ух-ух",
+        "ipa": "/ux ux/"
+      },
+      "ja": {
+        "text": "ホーホー",
+        "ipa": "/hoː hoː/"
+      },
+      "ko": {
+        "text": "부엉부엉",
+        "ipa": "/pu.ʌŋ pu.ʌŋ/"
+      },
+      "zh": {
+        "text": "咕咕",
+        "ipa": "/ɡū ɡū/"
+      },
+      "fi": {
+        "text": "huhuu",
+        "ipa": "/huˈhuː/"
+      },
+      "mk": {
+        "text": "ху-ху",
+        "ipa": "/xu xu/"
+      }
+    },
+    "crow": {
+      "en": {
+        "text": "caw caw",
+        "ipa": "/kɔː kɔː/"
+      },
+      "ro": {
+        "text": "cra cra",
+        "ipa": "/kra kra/"
+      },
+      "fr": {
+        "text": "croa croa",
+        "ipa": "/kʁɔa kʁɔa/"
+      },
+      "es": {
+        "text": "cra cra",
+        "ipa": "/kra kra/"
+      },
+      "de": {
+        "text": "kra kra",
+        "ipa": "/kra kra/"
+      },
+      "it": {
+        "text": "cra cra",
+        "ipa": "/kra kra/"
+      },
+      "nl": {
+        "text": "kraa kraa",
+        "ipa": "/kraː kraː/"
+      },
+      "ru": {
+        "text": "кар-кар",
+        "ipa": "/kar kar/"
+      },
+      "ja": {
+        "text": "カーカー",
+        "ipa": "/kaː kaː/"
+      },
+      "ko": {
+        "text": "까악까악",
+        "ipa": "/k͈a.ak k͈a.ak/"
+      },
+      "zh": {
+        "text": "呱呱",
+        "ipa": "/ɡuā ɡuā/"
+      },
+      "mk": {
+        "text": "кар-кар",
+        "ipa": "/kar kar/"
+      }
+    },
+    "bird": {
+      "en": {
+        "text": "tweet tweet",
+        "ipa": "/twiːt twiːt/"
+      },
+      "ro": {
+        "text": "cip cirip",
+        "ipa": "/tʃip tʃiˈrip/"
+      },
+      "fr": {
+        "text": "cui cui",
+        "ipa": "/kɥi kɥi/"
+      },
+      "es": {
+        "text": "pío pío",
+        "ipa": "/ˈpio ˈpio/"
+      },
+      "de": {
+        "text": "piep piep",
+        "ipa": "/piːp piːp/"
+      },
+      "it": {
+        "text": "cip cip",
+        "ipa": "/tʃip tʃip/"
+      },
+      "pt": {
+        "text": "piu piu",
+        "ipa": "/ˈpiw ˈpiw/"
+      },
+      "nl": {
+        "text": "tjilp",
+        "ipa": "/tjɪlp/"
+      },
+      "pl": {
+        "text": "ćwir ćwir",
+        "ipa": "/tɕfir tɕfir/"
+      },
+      "ru": {
+        "text": "чик-чирик",
+        "ipa": "/tɕik tɕɪˈrʲik/"
+      },
+      "uk": {
+        "text": "цвірінь",
+        "ipa": "/t͡sʋiˈrʲinʲ/"
+      },
+      "hu": {
+        "text": "csip csip",
+        "ipa": "/tʃip tʃip/"
+      },
+      "el": {
+        "text": "τσίου",
+        "ipa": "/ˈtsi.u/"
+      },
+      "tr": {
+        "text": "cik cik",
+        "ipa": "/dʒik dʒik/"
+      },
+      "ja": {
+        "text": "チュンチュン",
+        "ipa": "/tɕɯɴ tɕɯɴ/"
+      },
+      "ko": {
+        "text": "짹짹",
+        "ipa": "/t͈ɕɛk t͈ɕɛk/"
+      },
+      "zh": {
+        "text": "啾啾",
+        "ipa": "/jiū jiū/"
+      },
+      "vi": {
+        "text": "chíp chíp",
+        "ipa": "/tɕip˧˥ tɕip˧˥/"
+      },
+      "th": {
+        "text": "จิ๊บ จิ๊บ",
+        "ipa": "/tɕíp tɕíp/"
+      },
+      "fi": {
+        "text": "piip piip",
+        "ipa": "/piːp piːp/"
+      },
+      "sv": {
+        "text": "pip pip",
+        "ipa": "/piːp piːp/"
+      },
+      "mk": {
+        "text": "цвр-цвр",
+        "ipa": "/t͡svr t͡svr/"
+      }
+    },
+    "chick": {
+      "en": {
+        "text": "cheep cheep",
+        "ipa": "/tʃiːp tʃiːp/"
+      },
+      "ro": {
+        "text": "piu piu",
+        "ipa": "/piu piu/"
+      },
+      "fr": {
+        "text": "piou piou",
+        "ipa": "/pju pju/"
+      },
+      "es": {
+        "text": "pío pío",
+        "ipa": "/ˈpi.o ˈpi.o/"
+      },
+      "de": {
+        "text": "piep piep",
+        "ipa": "/piːp piːp/"
+      },
+      "it": {
+        "text": "pio pio",
+        "ipa": "/ˈpi.o ˈpi.o/"
+      },
+      "ja": {
+        "text": "ピヨピヨ",
+        "ipa": "/pijo pijo/"
+      },
+      "ko": {
+        "text": "삐악삐악",
+        "ipa": "/p͈i.ak p͈i.ak/"
+      },
+      "zh": {
+        "text": "叽叽",
+        "ipa": "/jī jī/"
+      },
+      "mk": {
+        "text": "пиу пиу",
+        "ipa": "/piw piw/"
+      }
+    },
+    "chicken": {
+      "en": {
+        "text": "cluck cluck",
+        "ipa": "/klʌk klʌk/"
+      },
+      "ro": {
+        "text": "coţ coţ",
+        "ipa": "/kots kots/"
+      },
+      "fr": {
+        "text": "cot cot codet",
+        "ipa": "/kɔ kɔ kɔdɛ/"
+      },
+      "es": {
+        "text": "coc coc",
+        "ipa": "/kok kok/"
+      },
+      "de": {
+        "text": "gack gack",
+        "ipa": "/ɡak ɡak/"
+      },
+      "it": {
+        "text": "coccodè",
+        "ipa": "/kokkoˈdɛ/"
+      },
+      "ru": {
+        "text": "ко-ко-ко",
+        "ipa": "/ko ko ko/"
+      },
+      "ja": {
+        "text": "コッコッ",
+        "ipa": "/kokː kokː/"
+      },
+      "mk": {
+        "text": "ко-ко-ко",
+        "ipa": "/ko ko ko/"
+      }
+    },
+    "bee": {
+      "en": {
+        "text": "buzz",
+        "ipa": "/bʌz/"
+      },
+      "ro": {
+        "text": "bzzz",
+        "ipa": "/bzːː/"
+      },
+      "fr": {
+        "text": "bzzz",
+        "ipa": "/bzːː/"
+      },
+      "es": {
+        "text": "bzzz",
+        "ipa": "/bzːː/"
+      },
+      "de": {
+        "text": "summ summ",
+        "ipa": "/zʊm zʊm/"
+      },
+      "it": {
+        "text": "bzzz",
+        "ipa": "/bzːː/"
+      },
+      "ru": {
+        "text": "ж-ж-ж",
+        "ipa": "/ʐːː/"
+      },
+      "ja": {
+        "text": "ブンブン",
+        "ipa": "/bɯɴ bɯɴ/"
+      },
+      "ko": {
+        "text": "윙윙",
+        "ipa": "/wiŋ wiŋ/"
+      },
+      "zh": {
+        "text": "嗡嗡",
+        "ipa": "/wēng wēng/"
+      },
+      "fi": {
+        "text": "pörr",
+        "ipa": "/pørː/"
+      },
+      "mk": {
+        "text": "ззз",
+        "ipa": "/zːː/"
+      }
+    },
+    "snake": {
+      "en": {
+        "text": "hiss",
+        "ipa": "/hɪs/"
+      },
+      "ro": {
+        "text": "sss",
+        "ipa": "/sːː/"
+      },
+      "fr": {
+        "text": "ssss",
+        "ipa": "/sːː/"
+      },
+      "es": {
+        "text": "sss",
+        "ipa": "/sːː/"
+      },
+      "de": {
+        "text": "zisch",
+        "ipa": "/tsɪʃ/"
+      },
+      "ja": {
+        "text": "シューシュー",
+        "ipa": "/ɕuː ɕuː/"
+      },
+      "ko": {
+        "text": "쉬익",
+        "ipa": "/ɕɥi.ik/"
+      },
+      "zh": {
+        "text": "嘶嘶",
+        "ipa": "/sī sī/"
+      },
+      "mk": {
+        "text": "ссс",
+        "ipa": "/sːː/"
+      }
+    },
+    "lion": {
+      "en": {
+        "text": "roar",
+        "ipa": "/rɔː/"
+      },
+      "ro": {
+        "text": "ruahh",
+        "ipa": "/ruˈah/"
+      },
+      "fr": {
+        "text": "rooaarr",
+        "ipa": "/ʁɔaʁ/"
+      },
+      "es": {
+        "text": "grrr",
+        "ipa": "/ɡrːː/"
+      },
+      "de": {
+        "text": "brüll",
+        "ipa": "/bʁʏl/"
+      },
+      "ja": {
+        "text": "ガオー",
+        "ipa": "/ɡaoː/"
+      },
+      "ko": {
+        "text": "어흥",
+        "ipa": "/ʌ.hɯŋ/"
+      },
+      "zh": {
+        "text": "吼",
+        "ipa": "/hǒu/"
+      },
+      "mk": {
+        "text": "ррр",
+        "ipa": "/rːː/"
+      }
+    },
+    "tiger": {
+      "en": {
+        "text": "growl",
+        "ipa": "/ɡraʊl/"
+      },
+      "ja": {
+        "text": "ガオー",
+        "ipa": "/ɡaoː/"
+      },
+      "ko": {
+        "text": "어흥",
+        "ipa": "/ʌ.hɯŋ/"
+      },
+      "zh": {
+        "text": "嗷呜",
+        "ipa": "/áo wū/"
+      }
+    },
+    "bear": {
+      "en": {
+        "text": "growl",
+        "ipa": "/ɡraʊl/"
+      },
+      "ru": {
+        "text": "р-р-р",
+        "ipa": "/rːː/"
+      },
+      "ja": {
+        "text": "ガオー",
+        "ipa": "/ɡaoː/"
+      },
+      "ko": {
+        "text": "으르렁",
+        "ipa": "/ɯ.ɾɯ.ɾʌŋ/"
+      }
+    },
+    "wolf": {
+      "en": {
+        "text": "awoo",
+        "ipa": "/əˈwuː/"
+      },
+      "ro": {
+        "text": "auu",
+        "ipa": "/auː/"
+      },
+      "fr": {
+        "text": "ahouuu",
+        "ipa": "/auː/"
+      },
+      "de": {
+        "text": "auuu",
+        "ipa": "/auː/"
+      },
+      "ru": {
+        "text": "у-у-у",
+        "ipa": "/uːː/"
+      },
+      "ja": {
+        "text": "ウォーン",
+        "ipa": "/woːɴ/"
+      },
+      "ko": {
+        "text": "아우우",
+        "ipa": "/a.u.u/"
+      },
+      "mk": {
+        "text": "ауу",
+        "ipa": "/auː/"
+      }
+    },
+    "fox": {
+      "en": {
+        "text": "yip",
+        "ipa": "/jɪp/"
+      },
+      "ja": {
+        "text": "コンコン",
+        "ipa": "/koɴ koɴ/"
+      },
+      "ko": {
+        "text": "캥캥",
+        "ipa": "/kʰɛŋ kʰɛŋ/"
+      }
+    },
+    "monkey": {
+      "en": {
+        "text": "ooh ooh ah ah",
+        "ipa": "/uː uː ɑː ɑː/"
+      },
+      "ja": {
+        "text": "ウキウキ",
+        "ipa": "/ɯki ɯki/"
+      },
+      "ko": {
+        "text": "우끼끼",
+        "ipa": "/u.k͈i.k͈i/"
+      },
+      "zh": {
+        "text": "吱吱",
+        "ipa": "/zhī zhī/"
+      }
+    },
+    "elephant": {
+      "en": {
+        "text": "trumpet",
+        "ipa": "/ˈtrʌmpɪt/"
+      },
+      "ja": {
+        "text": "パオーン",
+        "ipa": "/paoːɴ/"
+      },
+      "ko": {
+        "text": "뿌우",
+        "ipa": "/p͈u.u/"
+      }
+    },
+    "mouse": {
+      "en": {
+        "text": "squeak",
+        "ipa": "/skwiːk/"
+      },
+      "ro": {
+        "text": "chiț chiț",
+        "ipa": "/kits kits/"
+      },
+      "fr": {
+        "text": "couic",
+        "ipa": "/kwik/"
+      },
+      "es": {
+        "text": "squik",
+        "ipa": "/skwik/"
+      },
+      "de": {
+        "text": "piep piep",
+        "ipa": "/piːp piːp/"
+      },
+      "it": {
+        "text": "squit squit",
+        "ipa": "/skwit skwit/"
+      },
+      "ru": {
+        "text": "пи-пи-пи",
+        "ipa": "/pʲi pʲi pʲi/"
+      },
+      "ja": {
+        "text": "チューチュー",
+        "ipa": "/tɕuː tɕuː/"
+      },
+      "ko": {
+        "text": "찍찍",
+        "ipa": "/t͈ɕik t͈ɕik/"
+      },
+      "zh": {
+        "text": "吱吱",
+        "ipa": "/zhī zhī/"
+      },
+      "mk": {
+        "text": "цуи цуи",
+        "ipa": "/t͡swi t͡swi/"
+      }
+    },
+    "turkey": {
+      "en": {
+        "text": "gobble gobble",
+        "ipa": "/ˈɡɒbl̩ ˈɡɒbl̩/"
+      },
+      "fr": {
+        "text": "glou glou",
+        "ipa": "/ɡlu ɡlu/"
+      },
+      "es": {
+        "text": "gluglú",
+        "ipa": "/ɡluˈɡlu/"
+      },
+      "de": {
+        "text": "kollern",
+        "ipa": "/ˈkɔlɐn/"
+      },
+      "ru": {
+        "text": "балды-балды",
+        "ipa": "/bɐlˈdɨ/"
+      }
+    },
+    "goose": {
+      "en": {
+        "text": "honk honk",
+        "ipa": "/hɒŋk hɒŋk/"
+      },
+      "ro": {
+        "text": "ga ga",
+        "ipa": "/ɡa ɡa/"
+      },
+      "fr": {
+        "text": "cacarder",
+        "ipa": "/kakaʁde/"
+      },
+      "de": {
+        "text": "schnatter",
+        "ipa": "/ˈʃnatɐ/"
+      },
+      "ru": {
+        "text": "га-га-га",
+        "ipa": "/ɡa ɡa ɡa/"
+      },
+      "ja": {
+        "text": "ガーガー",
+        "ipa": "/ɡaː ɡaː/"
+      },
+      "mk": {
+        "text": "га-га-га",
+        "ipa": "/ɡa ɡa ɡa/"
+      }
+    },
+    "cuckoo": {
+      "en": {
+        "text": "cuckoo",
+        "ipa": "/ˈkʊkuː/"
+      },
+      "ro": {
+        "text": "cu-cu",
+        "ipa": "/ku ku/"
+      },
+      "fr": {
+        "text": "coucou",
+        "ipa": "/kuku/"
+      },
+      "es": {
+        "text": "cu-cu",
+        "ipa": "/ku ku/"
+      },
+      "de": {
+        "text": "kuckuck",
+        "ipa": "/ˈkʊkʊk/"
+      },
+      "it": {
+        "text": "cu-cu",
+        "ipa": "/ku ku/"
+      },
+      "ru": {
+        "text": "ку-ку",
+        "ipa": "/ku ku/"
+      },
+      "ja": {
+        "text": "カッコー",
+        "ipa": "/kakːoː/"
+      },
+      "mk": {
+        "text": "ку-ку",
+        "ipa": "/ku ku/"
+      }
+    },
+    "cricket": {
+      "en": {
+        "text": "chirp chirp",
+        "ipa": "/tʃɜːp tʃɜːp/"
+      },
+      "ja": {
+        "text": "リーンリーン",
+        "ipa": "/ɾiːɴ ɾiːɴ/"
+      },
+      "ko": {
+        "text": "귀뚤귀뚤",
+        "ipa": "/kwi.t͈ul kwi.t͈ul/"
+      },
+      "zh": {
+        "text": "唧唧",
+        "ipa": "/jī jī/"
+      },
+      "fr": {
+        "text": "cri cri",
+        "ipa": "/kri kri/"
+      }
+    },
+    "pigeon": {
+      "en": {
+        "text": "coo coo",
+        "ipa": "/kuː kuː/"
+      },
+      "fr": {
+        "text": "rou rou",
+        "ipa": "/ʁu ʁu/"
+      },
+      "es": {
+        "text": "cu-cu-rru-cu-cú",
+        "ipa": "/ku.ku.ru.ku.ku/"
+      },
+      "de": {
+        "text": "gurr gurr",
+        "ipa": "/ɡʊr ɡʊr/"
+      },
+      "ja": {
+        "text": "クルックー",
+        "ipa": "/kɯrɯkːuː/"
+      },
+      "mk": {
+        "text": "гу-гу",
+        "ipa": "/ɡu ɡu/"
+      }
+    },
+    "rabbit": {
+      "en": {
+        "text": "squeak",
+        "ipa": "/skwiːk/"
+      },
+      "ja": {
+        "text": "ピョンピョン",
+        "ipa": "/pjoɴ pjoɴ/"
+      }
+    },
+    "whale": {
+      "en": {
+        "text": "song",
+        "ipa": "/sɒŋ/"
+      }
+    },
+    "dolphin": {
+      "en": {
+        "text": "click",
+        "ipa": "/klɪk/"
+      }
+    },
+    "eagle": {
+      "en": {
+        "text": "screech",
+        "ipa": "/skriːtʃ/"
+      }
+    },
+    "penguin": {
+      "en": {
+        "text": "squawk",
+        "ipa": "/skwɔːk/"
+      }
+    },
+    "parrot": {
+      "en": {
+        "text": "squawk",
+        "ipa": "/skwɔːk/"
+      }
+    },
+    "swan": {
+      "en": {
+        "text": "trumpet",
+        "ipa": "/ˈtrʌmpɪt/"
+      }
+    },
+    "raven": {
+      "en": {
+        "text": "croak",
+        "ipa": "/krəʊk/"
+      },
+      "de": {
+        "text": "krah krah",
+        "ipa": "/kraː kraː/"
+      }
+    },
+    "bat": {
+      "en": {
+        "text": "screech",
+        "ipa": "/skriːtʃ/"
+      }
+    },
+    "hippo": {
+      "en": {
+        "text": "grunt",
+        "ipa": "/ɡrʌnt/"
+      }
+    },
+    "gorilla": {
+      "en": {
+        "text": "ooh ooh",
+        "ipa": "/uː uː/"
+      }
+    },
+    "rhino": {
+      "en": {
+        "text": "snort",
+        "ipa": "/snɔːt/"
+      }
+    },
+    "giraffe": {
+      "en": {
+        "text": "hum",
+        "ipa": "/hʌm/"
+      }
+    },
+    "kangaroo": {
+      "en": {
+        "text": "chortle",
+        "ipa": "/ˈtʃɔːtl̩/"
+      }
+    },
+    "camel": {
+      "en": {
+        "text": "grunt",
+        "ipa": "/ɡrʌnt/"
+      },
+      "ar": {
+        "text": "هدر",
+        "ipa": "/hadar/"
+      }
+    },
+    "deer": {
+      "en": {
+        "text": "bellow",
+        "ipa": "/ˈbɛləʊ/"
+      }
+    },
+    "peacock": {
+      "en": {
+        "text": "may-awe",
+        "ipa": "/ˈmeɪɔː/"
+      },
+      "hi": {
+        "text": "म्याऊं",
+        "ipa": "/mjãː/"
+      }
+    },
+    "fish": {
+      "en": {
+        "text": "blub blub",
+        "ipa": "/blʌb blʌb/"
+      },
+      "ja": {
+        "text": "パクパク",
+        "ipa": "/paku paku/"
+      }
+    },
+    "seal": {
+      "en": {
+        "text": "ork ork",
+        "ipa": "/ɔːk ɔːk/"
+      }
+    },
+    "mosquito": {
+      "en": {
+        "text": "bzzz",
+        "ipa": "/bzːː/"
+      },
+      "ja": {
+        "text": "プーン",
+        "ipa": "/puːɴ/"
+      }
+    },
+    "sparrow": {
+      "en": {
+        "text": "chirp",
+        "ipa": "/tʃɜːp/"
+      }
+    },
+    "hen": {
+      "en": {
+        "text": "cluck cluck",
+        "ipa": "/klʌk klʌk/"
+      },
+      "fr": {
+        "text": "cot cot",
+        "ipa": "/kɔ kɔ/"
+      },
+      "de": {
+        "text": "gack gack",
+        "ipa": "/ɡak ɡak/"
+      },
+      "ja": {
+        "text": "コッコッ",
+        "ipa": "/kokː kokː/"
+      }
+    },
+    "rooster_call": {
+      "en": {
+        "text": "cluck",
+        "ipa": "/klʌk/"
+      }
+    },
+    "cricket2": {
+      "en": {
+        "text": "chirp",
+        "ipa": "/tʃɜːp/"
+      }
+    }
+  }
+}
